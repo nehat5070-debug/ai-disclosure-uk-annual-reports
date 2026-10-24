@@ -1,0 +1,37 @@
+ticker,year,status,mb,source
+AZN,2019,ok,11.5,https://ddd.uab.cat/pub/infanu/40172/iaASTZENa2019ieng.pdf
+AZN,2021,ok,13.5,https://ddd.uab.cat/pub/infanu/40172/iaASTZENa2021ieng.pdf
+AZN,2023,ok,22.6,https://www.ecgi.global/system/files/2024-04/astrazeneca_ar_2023.pdf
+AZN,2025,ok,11.7,https://ddd.uab.cat/pub/infanu/40172/iaASTZENa2025ieng.pdf
+BT,2019,ok,8.4,https://ddd.uab.cat/pub/infanu/119167/iaBTa2019ieng.pdf
+BT,2021,ok,8.3,https://ddd.uab.cat/pub/infanu/119167/iaBTa2021ieng.pdf
+BT,2023,ok,8.0,https://www.bt.com/about/annual-reports/2023summary/assets/files/bt_ar23_annual_report_2023.pdf
+BT,2025,ok,21.6,https://www.bt.com/bt-plc/assets/documents/investors/financial-reporting-and-news/annual-reports/2025/2025-bt-group-plc-annual-report.pdf
+DGE,2019,ok,10.0,https://ddd.uab.cat/pub/infanu/43622/iaDIAGEOa2019ieng.pdf
+DGE,2021,ok,13.7,https://ddd.uab.cat/pub/infanu/43622/iaDIAGEOa2021ieng.pdf
+DGE,2023,ok,20.6,https://staticcontents.investis.com/files/d/diageo/diageo-annual-report-2023.pdf
+DGE,2025,ok,15.9,https://www.diageo.com/~/media/Files/D/Diageo-V2/Diageo-Corp/investors/results-reports-and-events/annual-reports/2025/annual-report-2025.pdf
+REL,2019,HTTP 404,0.0,https://www.relx.com/~/media/Files/R/RELX-Group/documents/reports/annual-reports/relx-2019-annual-report.pdf
+REL,2021,ok,8.5,https://www.relx.com/~/media/Files/R/RELX-Group/documents/reports/annual-reports/relx-2021-annual-report.pdf
+REL,2023,ok,11.2,https://www.relx.com/~/media/Files/R/RELX-Group/documents/reports/annual-reports/relx-2023-annual-report.pdf
+REL,2025,ok,15.1,https://www.relx.com/~/media/Files/R/RELX-Group/documents/reports/annual-reports/relx-2025-annual-report.pdf
+RR,2019,HTTP 404,0.0,https://www.mylearning.rolls-royce.com/~/media/Files/R/Rolls-Royce/documents/annual-report/2019/rr-plc-annual-report-2019.pdf
+RR,2021,HTTP 404,0.0,https://www.mylearning.rolls-royce.com/~/media/Files/R/Rolls-Royce/documents/annual-report/2021/rr-plc-annual-report-2021.pdf
+RR,2023,ok,5.2,https://www.rolls-royce.com/~/media/Files/R/Rolls-Royce/documents/annual-report/2023/rr-plc-annual-report-2023.pdf
+RR,2025,HTTP 404,0.0,https://www.mylearning.rolls-royce.com/~/media/Files/R/Rolls-Royce/documents/annual-report/2025/rr-plc-annual-report-2025.pdf
+SGE,2019,HTTP 404,0.0,https://www.sage.com/en-gb/-/media/Files/investors/documents/pdf/annual%20report/sage-annual-report-2019.pdf
+SGE,2021,HTTP 404,0.0,https://www.sage.com/en-gb/-/media/Files/investors/documents/pdf/annual%20report/sage-annual-report-2021.pdf
+SGE,2023,ok,7.7,https://www.sage.com/en-gb/-/media/Files/investors/documents/pdf/annual%20report/sage-annual-report-2023.pdf
+SGE,2025,ok,10.9,https://www.sage.com/en-gb/-/media/Files/investors/documents/pdf/annual%20report/sage-annual-report-2025.pdf
+SHEL,2019,not a PDF,0.0,https://reports.shell.com/annual-report/2019/_assets/downloads/shell-annual-report-2019.pdf
+SHEL,2021,not a PDF,0.0,https://reports.shell.com/annual-report/2021/_assets/downloads/shell-annual-report-2021.pdf
+SHEL,2023,not a PDF,0.0,https://reports.shell.com/annual-report/2023/_assets/downloads/shell-annual-report-2023.pdf
+SHEL,2025,not a PDF,0.0,https://reports.shell.com/annual-report/2025/_assets/downloads/shell-annual-report-2025.pdf
+TSCO,2019,HTTP 403,0.0,https://www.tescoplc.com/media/476423/tesco_ar_2019.pdf
+TSCO,2021,HTTP 403,0.0,https://www.tescoplc.com/media/757589/tesco_annual_report_2021.pdf
+TSCO,2023,HTTP 403,0.0,https://www.tescoplc.com/ar2023
+TSCO,2025,HTTP 403,0.0,https://www.tescoplc.com/media/ky0bfwpo/tesco_ar25_interactive.pdf
+ULVR,2019,HTTP 403,0.0,https://www.unilever.com/files/unilever-annual-report-and-accounts-2019.pdf
+ULVR,2021,HTTP 403,0.0,https://www.unilever.com/files/unilever-annual-report-and-accounts-2021.pdf
+ULVR,2023,HTTP 403,0.0,https://www.unilever.com/files/unilever-annual-report-and-accounts-2023.pdf
+ULVR,2025,HTTP 403,0.0,https://www.unilever.com/files/unilever-annual-report-and-accounts-2025.pdf
