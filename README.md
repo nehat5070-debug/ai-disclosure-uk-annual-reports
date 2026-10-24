@@ -47,6 +47,5 @@ Run it in Google Colab: open `AI_disclosure_pilot.ipynb`, then Runtime > Run all
 
 ## Limitations
 
-This is a small, descriptive pilot. The specific or generic label is rule-based, and the PhD will replace it with a fine-tuned FinBERT classifier explained with SHAP values. The code was written with the help of AI coding tools.
+This is a small, descriptive pilot. The specific or generic label is rule-based, and the PhD will replace it with a fine-tuned FinBERT classifier explained with SHAP values. 
 
-Author: Mohammad Rehan Akhtar Ansari
